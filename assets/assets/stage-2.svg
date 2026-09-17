@@ -17,5 +17,5 @@
 <rect x="536" y="316" width="388" height="32" fill="none" stroke="#7dff6b" stroke-opacity=".35" stroke-width="2"/>
 <rect x="536" y="356" width="388" height="32" fill="none" stroke="#7dff6b" stroke-opacity=".35" stroke-width="2"/>
 <path d="M330 428L347 438L330 448z" fill="#ffb000" shape-rendering="geometricPrecision"/><text x="515" y="445" font-size="22" fill="#ffb000" text-anchor="middle" textLength="340" lengthAdjust="spacingAndGlyphs">8 POWER-UPS COLLECTED</text></g>
-<rect width="1000" height="478" fill="url(#s)"/>
+<rect width="1000" height="478" fill="url(#s)"/> 
 </svg>
