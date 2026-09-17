@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 84" width="1000" height="84" role="img" aria-label="Continue? 9, 8, 7.">
+<style>text{font-family:"Courier New",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-weight:700}</style>
+<defs><pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity=".22"/></pattern></defs>
+<rect width="1000" height="84" fill="#1b1036"/>
+<g shape-rendering="crispEdges"><rect x="4" y="4" width="992" height="76" fill="none" stroke="#ffb000" stroke-width="4"/>
+<text x="500" y="52" font-size="22" fill="#f3ecd8" text-anchor="middle" letter-spacing="2">CONTINUE? 9 . . . 8 . . . 7 . . .</text></g>
+<rect width="1000" height="84" fill="url(#s)"/>
+</svg>
