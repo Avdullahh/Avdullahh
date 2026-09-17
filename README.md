@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/Market_%26_Competitor_Analysis-C2185B?style=for-the-badge" alt="Market and Competitor Analysis" />
   <img src="https://img.shields.io/badge/IT_%2F_Business_Analysis-00897B?style=for-the-badge" alt="IT / Business Analysis" />
   <br /><br />
-  <img src="./assets/stage-3.svg" width="100%" alt="Stage 3, Insert coin. Player 2 ready? Select a channel below to join the game." />
+  <img src="./assets/assets/stage-3.svg" width="100%" alt="Stage 3, Insert coin. Player 2 ready? Select a channel below to join the game." />
   <br /><br />
   <a href="linkedin.com/ao-alhazmi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:aoalhazmi1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br /><br />
-  <img src="./assets/continue.svg" width="100%" alt="Continue? 9, 8, 7." />
+  <img src="./assets/assets/continue.svg" width="100%" alt="Continue? 9, 8, 7." />
 </div>
