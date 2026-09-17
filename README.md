@@ -1,45 +1,12 @@
 <div align="center">
   <img src="./assets/arcade-header.svg" width="100%" alt="Player 1: Abdullah. Select class: Builder plus Strategist." />
-</div>
-
-```
- 1UP  ABDULLAH      CLASS  DUAL      STAGES  03      CREDIT  01
- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-```
-
-```
- ═════════════════════════════════════════════════════════════════
- ► TRAITS 
- ═════════════════════════════════════════════════════════════════
-
- ┌──────────────────────────────┐  ┌──────────────────────────────┐
- │ THE BUILDER                  │  │ THE STRATEGIST               │
- ├──────────────────────────────┤  ├──────────────────────────────┤
- │ Software development         │  │ Business development         │
- │ Shipping ideas end to end    │  │ Tech to commercial results   │
- │                              │  │                              │
- │ first principles             │  │ competitor mapping           │
- └──────────────────────────────┘  └──────────────────────────────┘
-
- ► Writing the code and making the business case
-```
-
-```
- ═════════════════════════════════════════════════════════════════
- ► DOMAINS
- ═════════════════════════════════════════════════════════════════
-
- ■ BUILDER                       ■ STRATEGIST
- ▲ TypeScript / JavaScript       ▲ Business development
- ▲ React                         ▲ Market and competitor analysis
- ▲ HTML / CSS                    ▲ IT / business analysis
- ▲ Python
- ▲ AWS
-
- ► SKILLS
-```
-
-<p align="center">
+  <br /><br />
+  <img src="./assets/hud.svg" width="100%" alt="1UP Abdullah. Class: dual. Stages: 3. Credit: 01." />
+  <br /><br />
+  <img src="./assets/stage-1.svg" width="100%" alt="Stage 1, Player select. Class 1, The Builder: frontend dev, TypeScript, ships ideas end to end, special: first principles. Class 2, The Strategist: business development, tech to commercial results, special: competitor mapping." />
+  <br /><br />
+  <img src="./assets/stage-2.svg" width="100%" alt="Stage 2, Power-ups. Builder: TypeScript and JavaScript, React, HTML and CSS, Python, AWS. Strategist: business development, market and competitor analysis, IT and business analysis." />
+  <br /><br />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -51,19 +18,11 @@
   <img src="https://img.shields.io/badge/Business_Development-5B2A86?style=for-the-badge" alt="Business Development" />
   <img src="https://img.shields.io/badge/Market_%26_Competitor_Analysis-C2185B?style=for-the-badge" alt="Market and Competitor Analysis" />
   <img src="https://img.shields.io/badge/IT_%2F_Business_Analysis-00897B?style=for-the-badge" alt="IT / Business Analysis" />
-</p>
-
-```
- ═════════════════════════════════════════════════════════════════
- ► CONTACT
- ═════════════════════════════════════════════════════════════════
-```
-
-<p align="center">
-  <a href=https://www.linkedin.com/in/ao-alhazmi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:AOALHAZMI1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-```
-                 CONTINUE?   9 . . .   8 . . .   7 . . .
-```
+  <br /><br />
+  <img src="./assets/stage-3.svg" width="100%" alt="Stage 3, Insert coin. Player 2 ready? Select a channel below to join the game." />
+  <br /><br />
+  <a href="linkedin.com/ao-alhazmi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:aoalhazmi1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br /><br />
+  <img src="./assets/continue.svg" width="100%" alt="Continue? 9, 8, 7." />
+</div>
