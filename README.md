@@ -1,11 +1,11 @@
 <div align="center">
   <img src="./assets/arcade-header.svg" width="100%" alt="Player 1: Abdullah. Select class: Builder plus Strategist." />
   <br /><br />
-  <img src="./assets/hud.svg" width="100%" alt="1UP Abdullah. Class: dual. Stages: 3. Credit: 01." />
+  <img src="./assets/assets/hud.svg" width="100%" alt="1UP Abdullah. Class: dual. Stages: 3. Credit: 01." />
   <br /><br />
-  <img src="./assets/stage-1.svg" width="100%" alt="Stage 1, Player select. Class 1, The Builder: frontend dev, TypeScript, ships ideas end to end, special: first principles. Class 2, The Strategist: business development, tech to commercial results, special: competitor mapping." />
+  <img src="./assets/assets/stage-1.svg" width="100%" alt="Stage 1, Player select. Class 1, The Builder: frontend dev, TypeScript, ships ideas end to end, special: first principles. Class 2, The Strategist: business development, tech to commercial results, special: competitor mapping." />
   <br /><br />
-  <img src="./assets/stage-2.svg" width="100%" alt="Stage 2, Power-ups. Builder: TypeScript and JavaScript, React, HTML and CSS, Python, AWS. Strategist: business development, market and competitor analysis, IT and business analysis." />
+  <img src="./assets/assets/stage-2.svg" width="100%" alt="Stage 2, Power-ups. Builder: TypeScript and JavaScript, React, HTML and CSS, Python, AWS. Strategist: business development, market and competitor analysis, IT and business analysis." />
   <br /><br />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
